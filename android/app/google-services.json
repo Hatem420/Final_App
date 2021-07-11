@@ -1,34 +1,42 @@
 {
   "project_info": {
-    "project_number": "608887075407",
-    "firebase_url": "https://ahgazele.firebaseio.com",
-    "project_id": "ahgazele",
-    "storage_bucket": "ahgazele.appspot.com"
+    "project_number": "999260456491",
+    "firebase_url": "https://graduation-project-6d58d-default-rtdb.firebaseio.com",
+    "project_id": "graduation-project-6d58d",
+    "storage_bucket": "graduation-project-6d58d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:608887075407:android:854e3a1a7f3ee80509f03a",
+        "mobilesdk_app_id": "1:999260456491:android:db10b5be86795ac85b8c6e",
         "android_client_info": {
-          "package_name": "com.example.app1"
+          "package_name": "com.example.GradProject"
         }
       },
       "oauth_client": [
         {
-          "client_id": "608887075407-393vl7tvf0a2r1iab3t4ndrejo84pqni.apps.googleusercontent.com",
+          "client_id": "999260456491-jj44hvbgbufqsvu0ob3cg2qgtgi82lni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.GradProject",
+            "certificate_hash": "fe87c301f884484670d0a97282e6a0c713af4790"
+          }
+        },
+        {
+          "client_id": "999260456491-gu8e70ugk5td90jvc7fat57t6q4d6nhr.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAvHo8Ik8yrKVQMZBu-xVrJRcF7gW2MOEU"
+          "current_key": "AIzaSyCmOrpE7AeMoreD-6F3TnnV7nTgZWopOaI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "608887075407-393vl7tvf0a2r1iab3t4ndrejo84pqni.apps.googleusercontent.com",
+              "client_id": "999260456491-gu8e70ugk5td90jvc7fat57t6q4d6nhr.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -37,85 +45,27 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:608887075407:android:875418f176d121b509f03a",
-        "android_client_info": {
-          "package_name": "com.example.doctorchat"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "608887075407-393vl7tvf0a2r1iab3t4ndrejo84pqni.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAvHo8Ik8yrKVQMZBu-xVrJRcF7gW2MOEU"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "608887075407-393vl7tvf0a2r1iab3t4ndrejo84pqni.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:608887075407:android:57fc994a9122ed8d09f03a",
+        "mobilesdk_app_id": "1:999260456491:android:657d922eb08cb36d5b8c6e",
         "android_client_info": {
           "package_name": "com.example.finalchat1"
         }
       },
       "oauth_client": [
         {
-          "client_id": "608887075407-393vl7tvf0a2r1iab3t4ndrejo84pqni.apps.googleusercontent.com",
+          "client_id": "999260456491-gu8e70ugk5td90jvc7fat57t6q4d6nhr.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAvHo8Ik8yrKVQMZBu-xVrJRcF7gW2MOEU"
+          "current_key": "AIzaSyCmOrpE7AeMoreD-6F3TnnV7nTgZWopOaI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "608887075407-393vl7tvf0a2r1iab3t4ndrejo84pqni.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:608887075407:android:a54de8957e4ec35c09f03a",
-        "android_client_info": {
-          "package_name": "com.example.usercaht"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "608887075407-393vl7tvf0a2r1iab3t4ndrejo84pqni.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAvHo8Ik8yrKVQMZBu-xVrJRcF7gW2MOEU"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "608887075407-393vl7tvf0a2r1iab3t4ndrejo84pqni.apps.googleusercontent.com",
+              "client_id": "999260456491-gu8e70ugk5td90jvc7fat57t6q4d6nhr.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
